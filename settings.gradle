@@ -1,0 +1,2 @@
+include ':app', ':probe_sdk'
+rootProject.name='Non_trace_probe'
